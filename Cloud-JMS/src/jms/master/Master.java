@@ -13,6 +13,7 @@ public class Master {
 
 		int workerPort = 7899;
 
+		
 		Master m = new Master();
 		m.readFileAndStoreInArrayList(); // read file from .txt and store in
 											// ArrayList

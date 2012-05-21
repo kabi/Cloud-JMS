@@ -22,7 +22,6 @@ public class Connection extends Thread {
 		
 		
 		
-		
 		this.start();
 	}
 

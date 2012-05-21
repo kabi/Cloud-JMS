@@ -5,6 +5,7 @@ import java.io.*;
 import jms.comms.*;
 
 public class Worker {
+	
 	public static void main(String args[]) {
 		try {
 			int serverPort = 7899; // the server port
